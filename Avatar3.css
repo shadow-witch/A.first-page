@@ -18,7 +18,7 @@ body{
 .container{
     background-image: 
     linear-gradient(to right, rgba(5, 5, 43, 0.848) 70%,rgba(10, 15, 62, 0.722)),
-    url(./img/Avatar-img.webp);
+    url(/img/Avatar-img.webp);
     background-position: right;
     width: 90%;
     height: 640px;
@@ -26,7 +26,7 @@ body{
 .container:hover{
     background-image: 
     linear-gradient(to right, rgba(5, 5, 43, 0.848) 70%, transparent),
-    url(./img/Avatar-img.webp);
+    url(/img/Avatar-img.webp);
 }
 
 header{
